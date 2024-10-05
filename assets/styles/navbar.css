@@ -1,8 +1,8 @@
-/* Quitar todo el padding por defecto */
+/* Quitar todo el padding por defecto
 * {
     margin: 0;
     padding: 0;
-}
+} */
 
 header {
     width: 100%;
